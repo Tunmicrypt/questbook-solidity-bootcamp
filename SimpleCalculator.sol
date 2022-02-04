@@ -23,3 +23,4 @@ contract Calc{
         return x * y;}
         
     }
+//end of code
