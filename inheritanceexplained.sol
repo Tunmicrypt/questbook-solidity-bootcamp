@@ -4,7 +4,7 @@ pragma solidity ^0.8.10;
 
 /*This smart contract is basically used to understand the concept of interface, modifiers and inheritance.  Messi has certain football attributes
 and so does Ronaldinho. Ronaldo seeks to get those attributes by inheritance and als by using the interface. Messi must be able to play ball before he can access those attributes
-(That is the use of modifier). Ronaldinho must also wear Nike before he can access those functions.
+(That is the use of modifier). Ronaldinho must also wear Nike before he can access those functions.*/
 
 
 interface Ball{      //This is the interface
